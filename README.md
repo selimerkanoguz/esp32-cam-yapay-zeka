@@ -6,11 +6,7 @@ ESP32-CAM tabanlı küçük bir kamera projesi. Wi‑Fi ağına bağlanır, canl
   <img src="img/1.png" alt="ESP32-CAM proje önizleme 1" width="720" />
 </p>
 
-## Screenshots
 
-<p align="center">
-  <img src="img/2.png" alt="Ana ekran görünümü" width="760" />
-</p>
 
 ### Görüntü Galerisi
 
